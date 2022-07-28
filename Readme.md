@@ -5,7 +5,7 @@
 [![Instagram][instagram-shield]][instagram-url]
 [![Hashnode][hashnode-shield]][hashnode-url]
 
-![BADGE](https://img.shields.io/badge/LIVE--CLASS-PROJECT--8-lightgrey)
+![BADGE](https://img.shields.io/badge/LIVE--CLASS-PROJECT--7-lightgrey)
 ![BADGE](https://img.shields.io/badge/LCO--INEURON-HITESH%20CHOUDHARY-lightgrey)
 ![BADGE](https://img.shields.io/badge/INEURON-FULL--STACK--JAVASCRIPT--WEBDEVELOPMENT-lightgrey)
 ![BADGE](https://img.shields.io/badge/HTML-CSS-lightgrey)
@@ -15,7 +15,7 @@
 
 ![Gif](https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif)
 
-> # All About `Project 8` 😎
+> # All About `Project 7` 😎
 
 # **Gained expertise through this project :**
 
@@ -46,7 +46,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-live-class-project-6.netlify.app/ "Project-6-Netlify")
+># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-live-class-project-7.netlify.app/ "Project-7-Netlify")
 >![Screenshot](./screenshot/screenshot.png)
 
 
